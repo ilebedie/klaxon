@@ -16,7 +16,7 @@ How to run webserver container:
 docker run -p 8080:8080  -v "$PWD":/root/klaxon -it ilebedie/ubuntu_klax bash`
 
 How to run webserver:
-`python manage.py 0.0.0.0:8080`
+`python manage.py 0:8080`
 
 Check site: type in browser
 `ec2-user@ec2-52-59-214-5.eu-central-1.compute.amazonaws.com:8080`
