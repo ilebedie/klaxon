@@ -1,25 +1,6 @@
 # klaxon
 
-
-  o         o/   o                                               
- <|>       /v   <|>                                              
- / >      />    / \                                              
- \o__ __o/      \o/     o__ __o/  \o    o/   o__ __o    \o__ __o
-  |__ __|        |     /v     |    v\  /v   /v     v\    |     |>
-  |      \      / \   />     / \    <\/>   />       <\  / \   / \
- <o>      \o    \o/   \      \o/    o/\o   \         /  \o/   \o/
-  |        v\    |     o      |    /v  v\   o       o    |     |
- / \        <\  / \    <\__  / \  />    <\  <\__ __/>   / \   / \
-
 Take me to the flow
-
-Todo:
-- Learn how to enter and leave container properly(clarify, automate)
-- Setup mysql container
-- Setup apache webserver
-- Allow access to site for everyone
-
-
 How to enter machine:
 `ssh -i "ivan-lab-ami.pem" ec2-user@ec2-52-59-214-5.eu-central-1.compute.amazonaws.com`
 
